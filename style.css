@@ -1,7 +1,7 @@
 .cabecalho{
     color: darkgoldenrod;
     background-color: darkblue;
-    
+    font-size: 20px;
 
     
 }
@@ -9,4 +9,8 @@
     background-color: darkgray;
     margin:0%;
     border-left: darkorange 10% solid;
+}
+.cabecalho2{
+    color:rgb(255, 255, 255);
+    font-size: 20px;
 }
