@@ -1,16 +1,16 @@
 .cabecalho{
     color: darkgoldenrod;
     background-color: darkblue;
+    border-bottom: 0%;
     font-size: 20px;
+    margin-bottom: 0%;
+    font-weight: 500;
 
     
 }
-.corpo{
-    background-color: darkgray;
-    margin:0%;
-    border-left: darkorange 10% solid;
-}
 .cabecalho2{
-    color:rgb(255, 255, 255);
+    color: #fff;
+    background-color: rgb(255, 140, 0);
+    border-top: 0%;
     font-size: 20px;
 }
